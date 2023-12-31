@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"../models"
+	"github.com/hipogeniq/GoFullStack_01/api/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

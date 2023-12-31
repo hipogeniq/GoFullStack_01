@@ -1,4 +1,4 @@
-module fullstack_01
+module GoFullStack_01
 
 go 1.21.5
 
